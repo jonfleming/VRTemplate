@@ -1,10 +1,10 @@
 {
   "name": "com.unity.template.fleming",
-  "displayName": "Fleming AI",
+  "displayName": "FlemingVRTemplate",
   "version": "0.0.1",
   "type": "template",
   "unity": "2021.2",
-  "description": "Fleming AI Template",
+  "description": "Fleming VR Template",
   "dependencies": {},
   "repository": {
     "type": "git",
